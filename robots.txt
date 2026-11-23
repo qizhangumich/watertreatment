@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qizhangumich.github.io/watertreatment/sitemap.xml
